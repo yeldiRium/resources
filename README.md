@@ -1,0 +1,210 @@
+# collection of (un-)ordered internet resources
+
+These are things that are or were of interest to me. No guarantee for existence or still sensible content.
+
+# JavaScript
+
+## Documentation
+
+- [MDN Developer Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - Mozilla JavaScript reference.
+- [Node.js Documentation Overview](https://nodejs.org/en/docs/) - List of all Node.js versions and their documentations.
+
+## Functional Programming
+
+- [Immutable](https://www.npmjs.com/package/immutable) - Collection of immutable data structures.
+- [Ramda](https://www.npmjs.com/package/ramda) - Data-list, immutable utility function library.
+    - [Ramda Documentation](https://ramdajs.com/docs/)
+- [Fluture](https://www.npmjs.com/package/fluture) - Monadic alternative to Promises.
+
+## State Management
+
+- [Redux](https://www.npmjs.com/package/redux) - Immutable state management.
+    - [Redux Watch](https://www.npmjs.com/package/redux-watch) - Watching of deep states in redux.
+    - [Redux Thunk](https://www.npmjs.com/package/redux-thunk) - Thunks as actions.
+    - [Redux Migrations](https://www.npmjs.com/package/@yeldirium/redux-migrations) - Migrations enhancer for persisted redux states.
+    - [Redux Combine Getters](https://www.npmjs.com/package/@yeldirium/redux-combine-getters) - Combine getters similar to redux' `combineReducers`.
+
+## Parsing / ASTs
+
+- [UnifiedJS](https://github.com/unifiedjs/unified) - Interface backend for parser, transformer, stringifier ecosystem.
+    - [remark](https://github.com/remarkjs/remark) - Markdown plugin.
+- [vfile](https://github.com/vfile/vfile#vfileoptions) - Virtual file handling.
+
+## CLI and Tools
+
+- [Commander](https://github.com/tj/commander.js) - CLI framework.
+- [Webpack](https://www.npmjs.com/package/webpack) - *The* build tool for javascript. Plugin based source transformation.
+    - [Webpack Concepts](https://webpack.js.org/concepts/)
+- [Jake](https://www.npmjs.com/package/jake) - Make for JavaScript (comparable to rake for ruby).
+- [Gulp](https://www.npmjs.com/package/gulp) - Streaming-based automation system.
+- [ESLint](https://eslint.org) - Plugin based linter.
+- [Babel](https://babeljs.io) - Pligun based transpiler from JavaScript to JavaScript. For compatibility with older Interpreters.
+
+## Server and Clients
+
+- [Express](https://www.npmjs.com/package/express) - Http server and router.
+    - [Morgan](https://www.npmjs.com/package/morgan) - Logger middleware.
+    - [Body Parser](https://www.npmjs.com/package/body-parser) - Body parsing middleware for e.g. JSON.
+- [WS](https://www.npmjs.com/package/ws) - Websocket client and server.
+- [Node Fetch](https://www.npmjs.com/package/node-fetch) - Node implementation of [fetch api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
+
+## Testing
+
+- [Jest](https://jestjs.io) - Unit testing framework all in one. Good mocking.
+    - [Jest Documentation](https://jestjs.io/docs/en/getting-started)
+    - [Jest API Reference](https://jestjs.io)
+    - [Jest Extended](https://github.com/jest-community/jest-extended) - Additional matchers for assertions.
+- [Supertest](https://github.com/visionmedia/supertest) - Http server testing tool.
+
+## third-party collections
+
+- [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
+
+# Haskell
+
+- [Haskell Homepage](https://www.haskell.org)
+
+## Documentation
+
+- [Hackage](http://hackage.haskell.org/) - Haskell Package registry and documentation hub.
+- [Haskell Wiki](https://wiki.haskell.org/Haskell)
+- [Hoogle](https://hoogle.haskell.org) - Search engine for haskell functions.
+
+## State Management
+
+- [Lense](http://hackage.haskell.org/package/lens-4.17.1/docs/Control-Exception-Lens.html) - Complex data structure access.
+
+# PureScript
+
+- [PureScript Homepage](http://www.purescript.org)
+
+## Documentation
+
+- [Pursuit](https://pursuit.purescript.org) - PureScript package documentation database.
+- [PureScript Language Reference](https://github.com/purescript/documentation/tree/master/language)
+
+## Resources
+
+- [PureScript by Example book](https://leanpub.com/purescript)
+
+# Infrastructure
+
+## Provisioning
+
+- [SaltStack Documentation](https://docs.saltstack.com/en/latest/)
+
+- [SaltStack states for kubernetes setup](https://github.com/strangedev/saltstack-states)
+    - [Pillar example](https://github.com/strangedev/saltstack-pillar-examples)
+    - [Data example](https://github.com/strangedev/saltstack-data-examples)
+    - These were made by a friend of mine and myself for our private server setup.
+
+## Cloud
+
+### Kubernetes
+
+- [Kubernetes API Reference v1.14](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.14/)
+
+# Computer Science
+
+## Algorithms
+
+- [Complexity Cheat Sheet](https://www.bigocheatsheet.com) - Overview of algorithms and data structures and the complexities of their operations.
+- [Algolist](http://www.algolist.net) - Algorithms and Data Structures with Java and C++ implementations.
+
+## Mathematics
+
+- [Wolfram|Alpha](https://www.wolframalpha.com) - Computational Intelligence. Impressive "Calculator".
+
+
+# Markdown
+
+- [GitHub-flavored Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [TKS.AL](http://www.tks.informatik.uni-frankfurt.de/formelchecker/AL.php?inputhelp=off&formel=%28x+%2F%5C+y%29) - Boolean expression analyser.
+
+# Databases
+
+## SQL
+
+- [SQLite Syntax Diagrams](https://www.sqlite.org/syntaxdiagrams.html#select-stmt)
+
+# Operating Systems / Computer Setup
+
+## Manjaro
+
+- [My setup guide](https://github.com/yeldiRium/configs/blob/manjaro/manjaro.md) - Tailored to my own needs.
+
+## Arch Linux
+
+- [Arch Linux Wiki](https://wiki.archlinux.org)
+- [Arch User Repository](https://aur.archlinux.org) - User maintained package repository.
+
+## Window Manager
+
+- [i3](https://i3wm.org) - Tiling window manager. The best (I've used so far).
+    - [i3 user guide](https://i3wm.org/docs/userguide.html)
+
+# CSS
+
+## Guides
+
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## Frameworks
+
+- [Tailwind CSS](https://tailwindcss.com) - Utility framework for postCSS. Cool concepts for building blocks.
+- [FontAwesome](https://fontawesome.com/icons?from=io) - Collection of free symbols.
+- [Hamburgers](https://jonsuh.com/hamburgers/) - Hamburger icons and animations.
+
+# Editors
+
+## VSCode
+
+### Plugins
+
+- [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file) - Create new file at path instead of unnamed and then saving it.
+- [Center Editor Window](https://marketplace.visualstudio.com/items?itemName=kaiwood.center-editor-window) - Provides command to center editor on cursor.
+- [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - GUI for kubernetes cluster interaction.
+- [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) - Preview OpenAPI specs with swagger in VSCode.
+- [VSCode PDF](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) - Inline PDF viewer.
+
+#### PureScript
+
+- [PureScript Language Support](https://marketplace.visualstudio.com/items?itemName=nwolverson.language-purescript) - Syntax Highlighting.
+- [PureScript IDE](https://marketplace.visualstudio.com/items?itemName=nwolverson.ide-purescript) - Language Server integration. Needs installed [language server](https://github.com/nwolverson/purescript-language-server).
+- [VSCode Purty](https://marketplace.visualstudio.com/items?itemName=mvakula.vscode-purty) - Purty integration.
+
+#### Haskell
+
+- [Simple GHC Integration](https://marketplace.visualstudio.com/items?itemName=dramforever.vscode-ghc-simple) - Basic code analysis.
+- [Haskell Linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
+- [Haskell Syntax Highlighting](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell)
+- [Haskell Language Server](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - Needs the [Haskell language server] to be installed.
+- [Haskell Code Formatter](https://marketplace.visualstudio.com/items?itemName=sergey-kintsel.haskell-formatter-vscode-extension)
+
+## Emacs
+
+- [My config](https://github.com/yeldiRium/configs/blob/manjaro/emacs.org)
+
+## Vim
+
+- [Vim Documentation](http://vimdoc.sourceforge.net/htmldoc/visual.html)
+
+# Security
+
+- [OWASP](https://www.owasp.org/index.php/Main_Page) - Open Web Application Security Project.
+
+# Miscellaneous
+
+## Resources
+
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+- [SED Tutorial](http://www.grymoire.com/Unix/Sed.html)
+
+## Tools
+
+- [JSON Placeholder](https://jsonplaceholder.typicode.com) - JSON Api for testing and prototyping.
+- [JSON Formatter](https://jsonformatter.curiousconcept.com)
+- [Lorem Ipsum Generator](https://lipsum.com/feed/html)
+- [Lorem Pixel](http://lorempixel.com/) - Image placeholder generator.
+- [RegEx101](https://regex101.com) - RegEx tester and debugger.
