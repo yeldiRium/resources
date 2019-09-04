@@ -12,7 +12,7 @@ These are things that are or were of interest to me. No guarantee for existence 
 ## Functional Programming
 
 - [Immutable](https://www.npmjs.com/package/immutable) - Collection of immutable data structures.
-- [Ramda](https://www.npmjs.com/package/ramda) - Data-list, immutable utility function library.
+- [Ramda](https://www.npmjs.com/package/ramda) - Data-last, immutable utility function library.
     - [Ramda Documentation](https://ramdajs.com/docs/)
 - [Fluture](https://www.npmjs.com/package/fluture) - Monadic alternative to Promises.
 
@@ -33,6 +33,7 @@ These are things that are or were of interest to me. No guarantee for existence 
 ## CLI and Tools
 
 - [Commander](https://github.com/tj/commander.js) - CLI framework.
+- [Enquirer](https://www.npmjs.com/package/enquirer) - Interactive CLI framework.
 - [Webpack](https://www.npmjs.com/package/webpack) - *The* build tool for javascript. Plugin based source transformation.
     - [Webpack Concepts](https://webpack.js.org/concepts/)
 - [Jake](https://www.npmjs.com/package/jake) - Make for JavaScript (comparable to rake for ruby).
@@ -47,6 +48,7 @@ These are things that are or were of interest to me. No guarantee for existence 
     - [Body Parser](https://www.npmjs.com/package/body-parser) - Body parsing middleware for e.g. JSON.
 - [WS](https://www.npmjs.com/package/ws) - Websocket client and server.
 - [Node Fetch](https://www.npmjs.com/package/node-fetch) - Node implementation of [fetch api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
+- [Telegraf](https://www.npmjs.com/package/telegraf) - Telegram API client.
 
 ## Testing
 
@@ -87,6 +89,13 @@ These are things that are or were of interest to me. No guarantee for existence 
 
 - [PureScript by Example book](https://leanpub.com/purescript)
 
+# standardization
+
+## OpenAPI
+
+- [Specification](https://github.com/OAI/OpenAPI-Specification)
+- [Speccy](https://github.com/wework/speccy) - OpenAPI formatter and compiler.
+
 # Infrastructure
 
 ## Provisioning
@@ -97,6 +106,10 @@ These are things that are or were of interest to me. No guarantee for existence 
     - [Pillar example](https://github.com/strangedev/saltstack-pillar-examples)
     - [Data example](https://github.com/strangedev/saltstack-data-examples)
     - These were made by a friend of mine and myself for our private server setup.
+
+## Docker
+
+- [Lazy Docker](https://github.com/jesseduffield/lazydocker) - CLI tool for docker management.
 
 ## Cloud
 
@@ -200,9 +213,12 @@ These are things that are or were of interest to me. No guarantee for existence 
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 - [SED Tutorial](http://www.grymoire.com/Unix/Sed.html)
+- [Awesome](https://github.com/sindresorhus/awesome) - List of various awesome stuff.
+- [TIL](https://github.com/jbranchaud/til) - List of collected learnings.
 
 ## Tools
 
+- [Ultimate Plumber](https://github.com/akavel/up) - Linux pipeline tool with live preview.
 - [JSON Placeholder](https://jsonplaceholder.typicode.com) - JSON Api for testing and prototyping.
 - [JSON Formatter](https://jsonformatter.curiousconcept.com)
 - [Lorem Ipsum Generator](https://lipsum.com/feed/html)
