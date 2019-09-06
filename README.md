@@ -40,6 +40,8 @@ These are things that are or were of interest to me. No guarantee for existence 
 - [Gulp](https://www.npmjs.com/package/gulp) - Streaming-based automation system.
 - [ESLint](https://eslint.org) - Plugin based linter.
 - [Babel](https://babeljs.io) - Pligun based transpiler from JavaScript to JavaScript. For compatibility with older Interpreters.
+- [Nexe](https://github.com/nexe/nexe) - Bundle js project and node into standalone executable binaries. JS API oriented.
+- [Zeit Pkg](https://github.com/zeit/pkg) - Bundle js project and node into standalone executable binaries. CLI oriented.
 
 ## Server and Clients
 
@@ -65,6 +67,7 @@ These are things that are or were of interest to me. No guarantee for existence 
 # Haskell
 
 - [Haskell Homepage](https://www.haskell.org)
+- [Pandoc](https://pandoc.org/index.html) - Swiss army knife for markup format conversion and transformation.
 
 ## Documentation
 
@@ -133,6 +136,7 @@ These are things that are or were of interest to me. No guarantee for existence 
 
 - [GitHub-flavored Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [TKS.AL](http://www.tks.informatik.uni-frankfurt.de/formelchecker/AL.php?inputhelp=off&formel=%28x+%2F%5C+y%29) - Boolean expression analyser.
+- [CommonMark](https://commonmark.org) - Strong specification for markdown with unambiguous syntax.
 
 # Databases
 
