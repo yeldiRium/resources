@@ -67,17 +67,27 @@ These are things that are or were of interest to me. No guarantee for existence 
 # Haskell
 
 - [Haskell Homepage](https://www.haskell.org)
+
+## Libraries
+
 - [Pandoc](https://pandoc.org/index.html) - Swiss army knife for markup format conversion and transformation.
+- [SemVer](http://hackage.haskell.org/package/semver) - SemVer specification implementation.
+- [time](http://hackage.haskell.org/package/time) - Time parsing and formatting.
 
 ## Documentation
 
 - [Hackage](http://hackage.haskell.org/) - Haskell Package registry and documentation hub.
 - [Haskell Wiki](https://wiki.haskell.org/Haskell)
 - [Hoogle](https://hoogle.haskell.org) - Search engine for haskell functions.
+- [Typeclass Hierarchy Wiki Page](https://wiki.haskell.org/Typeclassopedia)
 
 ## State Management
 
 - [Lense](http://hackage.haskell.org/package/lens-4.17.1/docs/Control-Exception-Lens.html) - Complex data structure access.
+
+## Content
+
+- [Talk on Monad Transformers - Ben Kolera](https://www.youtube.com/watch?v=pzouxmWiemg&t=2221s)
 
 # PureScript
 
