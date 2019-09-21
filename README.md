@@ -60,6 +60,16 @@ These are things that are or were of interest to me. No guarantee for existence 
     - [Jest Extended](https://github.com/jest-community/jest-extended) - Additional matchers for assertions.
 - [Supertest](https://github.com/visionmedia/supertest) - Http server testing tool.
 
+## Databases
+
+### MinIO
+
+- [Official Client Library](https://github.com/minio/minio-js)
+
+### RabbitMQ
+
+- [amqplib](https://www.npmjs.com/package/amqplib) - Most fully implemented client library.
+
 ## third-party collections
 
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
@@ -88,6 +98,7 @@ These are things that are or were of interest to me. No guarantee for existence 
 ## Content
 
 - [Talk on Monad Transformers - Ben Kolera](https://www.youtube.com/watch?v=pzouxmWiemg&t=2221s)
+- [Blogpost - Refactoring to a Monad Transformer Stack](https://thoughtbot.com/blog/refactoring-to-a-monad-transformer-stack)
 
 # PureScript
 
@@ -149,6 +160,16 @@ These are things that are or were of interest to me. No guarantee for existence 
 - [CommonMark](https://commonmark.org) - Strong specification for markdown with unambiguous syntax.
 
 # Databases
+
+## MinIO
+
+- [MinIO Docker Image](https://hub.docker.com/r/minio/minio)
+- [MinIO Docker Readme](https://github.com/minio/minio/blob/master/docs/docker/README.md)
+
+## RabbitMQ
+
+- [RabbitMQ Docker Image](https://hub.docker.com/_/rabbitmq)
+- [RabbitMQ Docker Documentation](https://docs.docker.com/samples/library/rabbitmq/)
 
 ## SQL
 
@@ -229,6 +250,7 @@ These are things that are or were of interest to me. No guarantee for existence 
 - [SED Tutorial](http://www.grymoire.com/Unix/Sed.html)
 - [Awesome](https://github.com/sindresorhus/awesome) - List of various awesome stuff.
 - [TIL](https://github.com/jbranchaud/til) - List of collected learnings.
+- [Terminal Color Scheme Generator](https://terminal.sexy)
 
 ## Tools
 
