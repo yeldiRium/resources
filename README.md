@@ -79,6 +79,10 @@ These are things that are or were of interest to me. No guarantee for existence 
 
 - [amqplib](https://www.npmjs.com/package/amqplib) - Most fully implemented client library.
 
+### MongoDB
+
+- [driver api overview](https://mongodb.github.io/node-mongodb-native/)
+
 ## third-party collections
 
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
