@@ -55,6 +55,10 @@ These are things that are or were of interest to me. No guarantee for existence 
 - [Node Fetch](https://www.npmjs.com/package/node-fetch) - Node implementation of [fetch api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
 - [Telegraf](https://www.npmjs.com/package/telegraf) - Telegram API client.
 
+## Miscellaneous
+
+- [is-url](https://www.npmjs.com/package/is-url) - Check whether a string is a url.
+
 ## Testing
 
 - [Jest](https://jestjs.io) - Unit testing framework all in one. Good mocking.
