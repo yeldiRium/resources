@@ -29,6 +29,9 @@ These are things that are or were of interest to me. No guarantee for existence 
 - [UnifiedJS](https://github.com/unifiedjs/unified) - Interface backend for parser, transformer, stringifier ecosystem.
     - [remark](https://github.com/remarkjs/remark) - Markdown plugin.
 - [vfile](https://github.com/vfile/vfile#vfileoptions) - Virtual file handling.
+- [AST explorer](https://astexplorer.net)
+- [jscodeshift](https://github.com/facebook/jscodeshift) - Runner for code refactoring scripts.
+    - [js-codemod](https://github.com/cpojer/js-codemod/) - Collection of scripts for jscodeshift.
 
 ## CLI and Tools
 
