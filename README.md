@@ -66,6 +66,8 @@ These are things that are or were of interest to me. No guarantee for existence 
     - [Jest API Reference](https://jestjs.io)
     - [Jest Extended](https://github.com/jest-community/jest-extended) - Additional matchers for assertions.
 - [Supertest](https://github.com/visionmedia/supertest) - Http server testing tool.
+- [Cucumber](https://github.com/cucumber/cucumber-js) - Integration testing framework based on Gherkin syntax.
+    - [Gherkin](https://cucumber.io/docs/gherkin/reference/)
 
 ## Databases
 
