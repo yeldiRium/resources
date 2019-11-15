@@ -69,6 +69,10 @@ These are things that are or were of interest to me. No guarantee for existence 
 - [Cucumber](https://github.com/cucumber/cucumber-js) - Integration testing framework based on Gherkin syntax.
     - [Gherkin](https://cucumber.io/docs/gherkin/reference/)
     - [Cucumber documentation](https://cucumber.io/docs/cucumber/)
+    - npm packages
+        - [cucumber](https://www.npmjs.com/package/cucumber)
+        - [cucumber-pretty](https://www.npmjs.com/package/cucumber-pretty) - A pretty formatter.
+        - [eslint-plugin-cucumber](https://www.npmjs.com/package/eslint-plugin-cucumber)
 
 ## Databases
 
