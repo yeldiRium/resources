@@ -74,6 +74,7 @@ These are things that are or were of interest to me. No guarantee for existence 
 ## Miscellaneous
 
 - [is-url](https://www.npmjs.com/package/is-url) - Check whether a string is a url.
+- [winston](https://github.com/winstonjs/winston) - Logging framework.
 
 ## Testing
 
@@ -187,17 +188,17 @@ These are things that are or were of interest to me. No guarantee for existence 
   - [tasks](https://apps.nextcloud.com/apps/tasks)
   - [notes](https://apps.nextcloud.com/apps/notes)
   - [pride 🏳️‍🌈](https://apps.nextcloud.com/apps/pride)
-  - for larger user groups or companies (untested, just for future reference)
-    - [announcements](https://apps.nextcloud.com/apps/announcementcenter) - lets admins send announcement to users
+  - For larger user groups or companies (untested, just for future reference):
+    - [announcements](https://apps.nextcloud.com/apps/announcementcenter) - Lets admins send announcement to users.
     - [only office](https://apps.nextcloud.com/apps/onlyoffice)
-    - [deck](https://apps.nextcloud.com/apps/deck) - kanban tool
-    - [spreed.me](https://apps.nextcloud.com/apps/spreedme) - video/audio/text chat
-    - [external sites](https://apps.nextcloud.com/apps/external) - integrate external links into navigation
-    - [nextant](https://apps.nextcloud.com/apps/nextant) - solr search for cloud content
+    - [deck](https://apps.nextcloud.com/apps/deck) - Kanban-style organization tool.
+    - [spreed.me](https://apps.nextcloud.com/apps/spreedme) - Video/audio/text chat.
+    - [external sites](https://apps.nextcloud.com/apps/external) - Integrate external links into navigation.
+    - [nextant](https://apps.nextcloud.com/apps/nextant) - Solr search for cloud content.
     - [phone tracker](https://apps.nextcloud.com/apps/phonetrack)
     - [gluu openid connect](https://apps.nextcloud.com/apps/gluusso)
     - [sso & saml](https://apps.nextcloud.com/apps/user_saml)
-    - [news](https://apps.nextcloud.com/apps/news) - rss reader
+    - [news](https://apps.nextcloud.com/apps/news) - RSS reader.
 - v17
   - [developer documentation](https://docs.nextcloud.com/server/17/developer_manual/)
 
