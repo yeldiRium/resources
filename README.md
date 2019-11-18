@@ -211,11 +211,11 @@ These are things that are or were of interest to me. No guarantee for existence 
 ## Mathematics
 
 - [Wolfram|Alpha](https://www.wolframalpha.com) - Computational Intelligence. Impressive "Calculator".
+- [TKS.AL](http://www.tks.informatik.uni-frankfurt.de/formelchecker/AL.php?inputhelp=off&formel=%28x+%2F%5C+y%29) - Boolean expression analyser.
 
 # Markdown
 
 - [GitHub-flavored Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [TKS.AL](http://www.tks.informatik.uni-frankfurt.de/formelchecker/AL.php?inputhelp=off&formel=%28x+%2F%5C+y%29) - Boolean expression analyser.
 - [CommonMark](https://commonmark.org) - Strong specification for markdown with unambiguous syntax.
 
 # Databases
