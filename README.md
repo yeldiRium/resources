@@ -159,6 +159,20 @@ These are things that are or were of interest to me. No guarantee for existence 
 
 - [Kubernetes API Reference v1.14](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.14/)
 
+## Tools
+
+### Nextcloud
+
+- [app store](https://apps.nextcloud.com/)
+  - [calendar](https://apps.nextcloud.com/apps/calendar)
+  - [contacts](https://apps.nextcloud.com/apps/contacts)
+  - [polls](https://apps.nextcloud.com/apps/polls)
+  - [mail client](https://apps.nextcloud.com/apps/mail)
+  - [tasks](https://apps.nextcloud.com/apps/tasks)
+  - [pride 🏳️‍🌈](https://apps.nextcloud.com/apps/pride)
+- v17
+  - [developer documentation](https://docs.nextcloud.com/server/17/developer_manual/)
+
 # Computer Science
 
 ## Algorithms
