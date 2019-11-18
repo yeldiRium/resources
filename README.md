@@ -1,6 +1,6 @@
 # collection of (un-)ordered internet resources
 
-These are things that are or were of interest to me. No guarantee for existence or still sensible content.
+These are things that are or were of interest to me. No guarantee for existence or still sensible content. If something is in this list that does not mean that I recommend it or even have tested it. Some thing here are just for future reference.
 
 # JavaScript
 
@@ -169,7 +169,19 @@ These are things that are or were of interest to me. No guarantee for existence 
   - [polls](https://apps.nextcloud.com/apps/polls)
   - [mail client](https://apps.nextcloud.com/apps/mail)
   - [tasks](https://apps.nextcloud.com/apps/tasks)
+  - [notes](https://apps.nextcloud.com/apps/notes)
   - [pride 🏳️‍🌈](https://apps.nextcloud.com/apps/pride)
+  - for larger user groups or companies (untested, just for future reference)
+	- [announcements](https://apps.nextcloud.com/apps/announcementcenter) - lets admins send announcement to users
+	- [only office](https://apps.nextcloud.com/apps/onlyoffice)
+	- [deck](https://apps.nextcloud.com/apps/deck) - kanban tool
+	- [spreed.me](https://apps.nextcloud.com/apps/spreedme) - video/audio/text chat
+	- [external sites](https://apps.nextcloud.com/apps/external) - integrate external links into navigation
+	- [nextant](https://apps.nextcloud.com/apps/nextant) - solr search for cloud content
+	- [phone tracker](https://apps.nextcloud.com/apps/phonetrack)
+	- [gluu openid connect](https://apps.nextcloud.com/apps/gluusso)
+	- [sso & saml](https://apps.nextcloud.com/apps/user_saml)
+	- [news](https://apps.nextcloud.com/apps/news) - rss reader
 - v17
   - [developer documentation](https://docs.nextcloud.com/server/17/developer_manual/)
 
