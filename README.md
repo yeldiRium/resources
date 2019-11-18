@@ -2,6 +2,22 @@
 
 These are things that are or were of interest to me. No guarantee for existence or still sensible content. If something is in this list that does not mean that I recommend it or even have tested it. Some thing here are just for future reference.
 
+# Table of Contents
+
+1. [JavaScript](#JavaScript)
+2. [Haskell](#Haskell)
+3. [PureScript](#PureScript)
+4. [Standardization](#Standardization)
+5. [Infrastructure](#Infrastructure)
+6. [Computer Science](#Computer-Science)
+7. [Markdown](#Markdown)
+8. [Databases](#Databases)
+9. [Operating Systems / Computer Setup](#Operating-Systems-/-Computer-Setup)
+10. [CSS](#CSS)
+11. [Editors](#Editors)
+12. [Security](#Security)
+13. [Miscellaneous](#Miscellaneous)
+
 # JavaScript
 
 ## Documentation
@@ -13,32 +29,32 @@ These are things that are or were of interest to me. No guarantee for existence 
 
 - [Immutable](https://www.npmjs.com/package/immutable) - Collection of immutable data structures.
 - [Ramda](https://www.npmjs.com/package/ramda) - Data-last, immutable utility function library.
-    - [Ramda Documentation](https://ramdajs.com/docs/)
+  - [Ramda Documentation](https://ramdajs.com/docs/)
 - [Fluture](https://www.npmjs.com/package/fluture) - Monadic alternative to Promises.
 
 ## State Management
 
 - [Redux](https://www.npmjs.com/package/redux) - Immutable state management.
-    - [Redux Watch](https://www.npmjs.com/package/redux-watch) - Watching of deep states in redux.
-    - [Redux Thunk](https://www.npmjs.com/package/redux-thunk) - Thunks as actions.
-    - [Redux Migrations](https://www.npmjs.com/package/@yeldirium/redux-migrations) - Migrations enhancer for persisted redux states.
-    - [Redux Combine Getters](https://www.npmjs.com/package/@yeldirium/redux-combine-getters) - Combine getters similar to redux' `combineReducers`.
+  - [Redux Watch](https://www.npmjs.com/package/redux-watch) - Watching of deep states in redux.
+  - [Redux Thunk](https://www.npmjs.com/package/redux-thunk) - Thunks as actions.
+  - [Redux Migrations](https://www.npmjs.com/package/@yeldirium/redux-migrations) - Migrations enhancer for persisted redux states.
+  - [Redux Combine Getters](https://www.npmjs.com/package/@yeldirium/redux-combine-getters) - Combine getters similar to redux' `combineReducers`.
 
 ## Parsing / ASTs
 
 - [UnifiedJS](https://github.com/unifiedjs/unified) - Interface backend for parser, transformer, stringifier ecosystem.
-    - [remark](https://github.com/remarkjs/remark) - Markdown plugin.
+  - [remark](https://github.com/remarkjs/remark) - Markdown plugin.
 - [vfile](https://github.com/vfile/vfile#vfileoptions) - Virtual file handling.
 - [AST explorer](https://astexplorer.net)
 - [jscodeshift](https://github.com/facebook/jscodeshift) - Runner for code refactoring scripts.
-    - [js-codemod](https://github.com/cpojer/js-codemod/) - Collection of scripts for jscodeshift.
+  - [js-codemod](https://github.com/cpojer/js-codemod/) - Collection of scripts for jscodeshift.
 
 ## CLI and Tools
 
 - [Commander](https://github.com/tj/commander.js) - CLI framework.
 - [Enquirer](https://www.npmjs.com/package/enquirer) - Interactive CLI framework.
-- [Webpack](https://www.npmjs.com/package/webpack) - *The* build tool for javascript. Plugin based source transformation.
-    - [Webpack Concepts](https://webpack.js.org/concepts/)
+- [Webpack](https://www.npmjs.com/package/webpack) - _The_ build tool for javascript. Plugin based source transformation.
+  - [Webpack Concepts](https://webpack.js.org/concepts/)
 - [Jake](https://www.npmjs.com/package/jake) - Make for JavaScript (comparable to rake for ruby).
 - [Gulp](https://www.npmjs.com/package/gulp) - Streaming-based automation system.
 - [ESLint](https://eslint.org) - Plugin based linter.
@@ -49,8 +65,8 @@ These are things that are or were of interest to me. No guarantee for existence 
 ## Server and Clients
 
 - [Express](https://www.npmjs.com/package/express) - Http server and router.
-    - [Morgan](https://www.npmjs.com/package/morgan) - Logger middleware.
-    - [Body Parser](https://www.npmjs.com/package/body-parser) - Body parsing middleware for e.g. JSON.
+  - [Morgan](https://www.npmjs.com/package/morgan) - Logger middleware.
+  - [Body Parser](https://www.npmjs.com/package/body-parser) - Body parsing middleware for e.g. JSON.
 - [WS](https://www.npmjs.com/package/ws) - Websocket client and server.
 - [Node Fetch](https://www.npmjs.com/package/node-fetch) - Node implementation of [fetch api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
 - [Telegraf](https://www.npmjs.com/package/telegraf) - Telegram API client.
@@ -62,17 +78,17 @@ These are things that are or were of interest to me. No guarantee for existence 
 ## Testing
 
 - [Jest](https://jestjs.io) - Unit testing framework all in one. Good mocking.
-    - [Jest Documentation](https://jestjs.io/docs/en/getting-started)
-    - [Jest API Reference](https://jestjs.io)
-    - [Jest Extended](https://github.com/jest-community/jest-extended) - Additional matchers for assertions.
+  - [Jest Documentation](https://jestjs.io/docs/en/getting-started)
+  - [Jest API Reference](https://jestjs.io)
+  - [Jest Extended](https://github.com/jest-community/jest-extended) - Additional matchers for assertions.
 - [Supertest](https://github.com/visionmedia/supertest) - Http server testing tool.
 - [Cucumber](https://github.com/cucumber/cucumber-js) - Integration testing framework based on Gherkin syntax.
-    - [Gherkin](https://cucumber.io/docs/gherkin/reference/)
-    - [Cucumber documentation](https://cucumber.io/docs/cucumber/)
-    - npm packages
-        - [cucumber](https://www.npmjs.com/package/cucumber)
-        - [cucumber-pretty](https://www.npmjs.com/package/cucumber-pretty) - A pretty formatter.
-        - [eslint-plugin-cucumber](https://www.npmjs.com/package/eslint-plugin-cucumber)
+  - [Gherkin](https://cucumber.io/docs/gherkin/reference/)
+  - [Cucumber documentation](https://cucumber.io/docs/cucumber/)
+  - npm packages
+    - [cucumber](https://www.npmjs.com/package/cucumber)
+    - [cucumber-pretty](https://www.npmjs.com/package/cucumber-pretty) - A pretty formatter.
+    - [eslint-plugin-cucumber](https://www.npmjs.com/package/eslint-plugin-cucumber)
 
 ## Databases
 
@@ -145,9 +161,9 @@ These are things that are or were of interest to me. No guarantee for existence 
 - [SaltStack Documentation](https://docs.saltstack.com/en/latest/)
 
 - [SaltStack states for kubernetes setup](https://github.com/strangedev/saltstack-states)
-    - [Pillar example](https://github.com/strangedev/saltstack-pillar-examples)
-    - [Data example](https://github.com/strangedev/saltstack-data-examples)
-    - These were made by a friend of mine and myself for our private server setup.
+  - [Pillar example](https://github.com/strangedev/saltstack-pillar-examples)
+  - [Data example](https://github.com/strangedev/saltstack-data-examples)
+  - These were made by a friend of mine and myself for our private server setup.
 
 ## Docker
 
@@ -172,16 +188,16 @@ These are things that are or were of interest to me. No guarantee for existence 
   - [notes](https://apps.nextcloud.com/apps/notes)
   - [pride 🏳️‍🌈](https://apps.nextcloud.com/apps/pride)
   - for larger user groups or companies (untested, just for future reference)
-	- [announcements](https://apps.nextcloud.com/apps/announcementcenter) - lets admins send announcement to users
-	- [only office](https://apps.nextcloud.com/apps/onlyoffice)
-	- [deck](https://apps.nextcloud.com/apps/deck) - kanban tool
-	- [spreed.me](https://apps.nextcloud.com/apps/spreedme) - video/audio/text chat
-	- [external sites](https://apps.nextcloud.com/apps/external) - integrate external links into navigation
-	- [nextant](https://apps.nextcloud.com/apps/nextant) - solr search for cloud content
-	- [phone tracker](https://apps.nextcloud.com/apps/phonetrack)
-	- [gluu openid connect](https://apps.nextcloud.com/apps/gluusso)
-	- [sso & saml](https://apps.nextcloud.com/apps/user_saml)
-	- [news](https://apps.nextcloud.com/apps/news) - rss reader
+    - [announcements](https://apps.nextcloud.com/apps/announcementcenter) - lets admins send announcement to users
+    - [only office](https://apps.nextcloud.com/apps/onlyoffice)
+    - [deck](https://apps.nextcloud.com/apps/deck) - kanban tool
+    - [spreed.me](https://apps.nextcloud.com/apps/spreedme) - video/audio/text chat
+    - [external sites](https://apps.nextcloud.com/apps/external) - integrate external links into navigation
+    - [nextant](https://apps.nextcloud.com/apps/nextant) - solr search for cloud content
+    - [phone tracker](https://apps.nextcloud.com/apps/phonetrack)
+    - [gluu openid connect](https://apps.nextcloud.com/apps/gluusso)
+    - [sso & saml](https://apps.nextcloud.com/apps/user_saml)
+    - [news](https://apps.nextcloud.com/apps/news) - rss reader
 - v17
   - [developer documentation](https://docs.nextcloud.com/server/17/developer_manual/)
 
@@ -195,7 +211,6 @@ These are things that are or were of interest to me. No guarantee for existence 
 ## Mathematics
 
 - [Wolfram|Alpha](https://www.wolframalpha.com) - Computational Intelligence. Impressive "Calculator".
-
 
 # Markdown
 
@@ -233,7 +248,7 @@ These are things that are or were of interest to me. No guarantee for existence 
 ## Window Manager
 
 - [i3](https://i3wm.org) - Tiling window manager. The best (I've used so far).
-    - [i3 user guide](https://i3wm.org/docs/userguide.html)
+  - [i3 user guide](https://i3wm.org/docs/userguide.html)
 
 # CSS
 
