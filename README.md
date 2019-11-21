@@ -233,7 +233,7 @@ These are things that are or were of interest to me. No guarantee for existence 
 
 ## SQL
 
-- [SQLite Syntax Diagrams](https://www.sqlite.org/syntaxdiagrams.html#select-stmt)
+- [SQLite Syntax Diagrams](https://www.sqlite.org/syntaxdiagrams.html)
 
 # Operating Systems / Computer Setup
 
