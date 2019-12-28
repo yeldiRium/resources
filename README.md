@@ -50,16 +50,19 @@ These are things that are or were of interest to me. No guarantee for existence 
 - [jscodeshift](https://github.com/facebook/jscodeshift) - Runner for code refactoring scripts.
   - [js-codemod](https://github.com/cpojer/js-codemod/) - Collection of scripts for jscodeshift.
 
-## CLI and Tools
+## Tools
 
-- [Commander](https://github.com/tj/commander.js) - CLI framework.
-- [Enquirer](https://www.npmjs.com/package/enquirer) - Interactive CLI framework.
 - [Webpack](https://www.npmjs.com/package/webpack) - _The_ build tool for javascript. Plugin based source transformation.
   - [Webpack Concepts](https://webpack.js.org/concepts/)
+- [ESLint](https://eslint.org) - Plugin based linter.
+- [Prettier](https://prettier.io/) - Opinionated code formatter.
+  - [Prettier Documentation](https://prettier.io/docs/en/index.html)
+  - [Prettier on GitHub](https://github.com/prettier/prettier)
+  - [ESLint Config Prettier](https://github.com/prettier/eslint-config-prettier) - Disables eslint formatting rules in favor of prettier.
+  - [ESLint Plugin Prettier](https://github.com/prettier/eslint-plugin-prettier) - Integrates Prettier as formatter in ESLint.
+- [Babel](https://babeljs.io) - Pligun based transpiler from JavaScript to JavaScript. For compatibility with older Interpreters.
 - [Jake](https://www.npmjs.com/package/jake) - Make for JavaScript (comparable to rake for ruby).
 - [Gulp](https://www.npmjs.com/package/gulp) - Streaming-based automation system.
-- [ESLint](https://eslint.org) - Plugin based linter.
-- [Babel](https://babeljs.io) - Pligun based transpiler from JavaScript to JavaScript. For compatibility with older Interpreters.
 - [Nexe](https://github.com/nexe/nexe) - Bundle js project and node into standalone executable binaries. JS API oriented.
 - [Zeit Pkg](https://github.com/zeit/pkg) - Bundle js project and node into standalone executable binaries. CLI oriented.
 
@@ -76,6 +79,8 @@ These are things that are or were of interest to me. No guarantee for existence 
 
 - [is-url](https://www.npmjs.com/package/is-url) - Check whether a string is a url.
 - [winston](https://github.com/winstonjs/winston) - Logging framework.
+- [Commander](https://github.com/tj/commander.js) - CLI framework.
+- [Enquirer](https://www.npmjs.com/package/enquirer) - Interactive CLI framework.
 
 ## Testing
 
@@ -83,6 +88,7 @@ These are things that are or were of interest to me. No guarantee for existence 
   - [Jest Documentation](https://jestjs.io/docs/en/getting-started)
   - [Jest API Reference](https://jestjs.io)
   - [Jest Extended](https://github.com/jest-community/jest-extended) - Additional matchers for assertions.
+  - [ESLint Plugin Jest](https://github.com/jest-community/eslint-plugin-jest) - Adds ESLint rules for Jest.
 - [Supertest](https://github.com/visionmedia/supertest) - Http server testing tool.
 - [Cucumber](https://github.com/cucumber/cucumber-js) - Integration testing framework based on Gherkin syntax.
   - [Gherkin](https://cucumber.io/docs/gherkin/reference/)
