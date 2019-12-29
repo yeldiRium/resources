@@ -155,7 +155,7 @@ These are things that are or were of interest to me. No guarantee for existence 
 
 - [PureScript by Example book](https://leanpub.com/purescript)
 
-# standardization
+# Standardization
 
 ## OpenAPI
 
@@ -258,14 +258,20 @@ These are things that are or were of interest to me. No guarantee for existence 
 - [i3](https://i3wm.org) - Tiling window manager. The best (I've used so far).
   - [i3 user guide](https://i3wm.org/docs/userguide.html)
 
-# CSS
+# Web (Frontend)
 
-## Guides
+## Frameworks
+
+- [Hexo](https://hexo.io/) - A cli and markdown based blog engine.
+
+## CSS
+
+### Guides
 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-## Frameworks
+### Frameworks
 
 - [Tailwind CSS](https://tailwindcss.com) - Utility framework for postCSS. Cool concepts for building blocks.
 - [FontAwesome](https://fontawesome.com/icons?from=io) - Collection of free symbols.
@@ -310,6 +316,10 @@ These are things that are or were of interest to me. No guarantee for existence 
 - [OWASP](https://www.owasp.org/index.php/Main_Page) - Open Web Application Security Project.
 
 # Miscellaneous
+
+## Browser Plugins (Chrome)
+
+- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - Enhances GitHub code viewer by linking requires etc.
 
 ## Resources
 
