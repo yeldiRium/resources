@@ -13,10 +13,11 @@ These are things that are or were of interest to me. No guarantee for existence 
 7. [Markdown](#Markdown)
 8. [Databases](#Databases)
 9. [Operating Systems / Computer Setup](#Operating-Systems-/-Computer-Setup)
-10. [CSS](#CSS)
+10. [Web (Frontend)](#Web-Frontend)
 11. [Editors](#Editors)
 12. [Security](#Security)
-13. [Miscellaneous](#Miscellaneous)
+13. [Selfhosted Web Services](#Selfhosted-Web-Services)
+14. [Miscellaneous](#Miscellaneous)
 
 # JavaScript
 
@@ -314,6 +315,10 @@ These are things that are or were of interest to me. No guarantee for existence 
 # Security
 
 - [OWASP](https://www.owasp.org/index.php/Main_Page) - Open Web Application Security Project.
+
+# Selfhosted Web Services
+
+- [Talk](https://github.com/coralproject/talk) - An open source commenting platform by the [coral project](https://docs.coralproject.net/talk/).
 
 # Miscellaneous
 
