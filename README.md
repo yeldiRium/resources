@@ -66,6 +66,11 @@ These are things that are or were of interest to me. No guarantee for existence 
 - [Gulp](https://www.npmjs.com/package/gulp) - Streaming-based automation system.
 - [Nexe](https://github.com/nexe/nexe) - Bundle js project and node into standalone executable binaries. JS API oriented.
 - [Zeit Pkg](https://github.com/zeit/pkg) - Bundle js project and node into standalone executable binaries. CLI oriented.
+- [semantic release](https://github.com/semantic-release/semantic-release) - A tool for automatic releases based on commit message conventions. Plugin based and flexible.
+  - [semantic-release-changelog](https://github.com/semantic-release/changelog) - Update a changelog based on the released commits.
+  - [semantic-release-docker](https://github.com/felixfbecker/semantic-release-docker) - Create a docker image with the release tag as docker tag.
+  - [semantic-release-exec](https://github.com/semantic-release/exec) - Run custom scripts during the release.
+  - [semantic-release-git](https://github.com/semantic-release/git) - Create a release commit with e.g. an updated package.json or a changelog.
 
 ## Server and Clients
 
