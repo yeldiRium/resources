@@ -320,6 +320,10 @@ These are things that are or were of interest to me. No guarantee for existence 
 # Security
 
 - [OWASP](https://www.owasp.org/index.php/Main_Page) - Open Web Application Security Project.
+
+## GPG and OpenPGP
+
+- [Anatomy of a GPG key](https://davesteele.github.io/gpg/2014/09/20/anatomy-of-a-gpg-key/) - Blogpost GPG key backgrounds.
 - [Yubikey Guide](https://github.com/drduh/YubiKey-Guide) - Complete GPG and SSH guide using a YubiKey. Just as relevant without one.
 
 # Selfhosted Web Services
