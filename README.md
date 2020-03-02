@@ -7,12 +7,12 @@ These are things that are or were of interest to me. No guarantee for existence 
 1. [JavaScript](#JavaScript)
 2. [Haskell](#Haskell)
 3. [PureScript](#PureScript)
-4. [Standardization](#Standardization)
+4. [APIs](#APIs)
 5. [Infrastructure](#Infrastructure)
 6. [Computer Science](#Computer-Science)
 7. [Markdown](#Markdown)
 8. [Databases](#Databases)
-9. [Operating Systems / Computer Setup](#Operating-Systems-/-Computer-Setup)
+9. [Operating Systems / Computer Setup](#Operating-Systems--Computer-Setup)
 10. [Web (Frontend)](#Web-Frontend)
 11. [Editors](#Editors)
 12. [Security](#Security)
@@ -161,12 +161,16 @@ These are things that are or were of interest to me. No guarantee for existence 
 
 - [PureScript by Example book](https://leanpub.com/purescript)
 
-# Standardization
+# APIs
 
 ## OpenAPI
 
 - [Specification](https://github.com/OAI/OpenAPI-Specification)
 - [Speccy](https://github.com/wework/speccy) - OpenAPI formatter and compiler.
+
+## GraphQL
+
+- [The real power behind graphql and an architecture to leverage it](https://medium.com/@jdylanstewart/the-real-power-behind-graphql-and-an-architecture-to-leverage-it-7d1dd1004ada) - Blogpost about GraphQLs abilities.
 
 # Infrastructure
 
