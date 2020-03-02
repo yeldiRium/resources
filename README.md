@@ -170,6 +170,8 @@ These are things that are or were of interest to me. No guarantee for existence 
 
 ## GraphQL
 
+- [GraphQL Spec](http://spec.graphql.org/)
+- [GraphQL Introduction](https://graphql.org/learn/)
 - [The real power behind graphql and an architecture to leverage it](https://medium.com/@jdylanstewart/the-real-power-behind-graphql-and-an-architecture-to-leverage-it-7d1dd1004ada) - Blogpost about GraphQLs abilities.
 
 # Infrastructure
