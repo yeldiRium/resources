@@ -275,6 +275,10 @@ These are things that are or were of interest to me. No guarantee for existence 
 ## Frameworks
 
 - [Hexo](https://hexo.io/) - A cli and markdown based blog engine.
+  - [Hexo Generator Feed](https://github.com/hexojs/hexo-generator-feed) - A plugin that generates an rss or atom feed.
+  - [Hexo Generator Json Content](https://github.com/alexbruno/hexo-generator-json-content) - A plugin that generates a json file containing all content. Useful for client side search engines.
+  - [Hexo Generator Sitemap](https://github.com/hexojs/hexo-generator-sitemap) - A plugin that generates an xml sitemap.
+  - [Hexo Plugin Prism](https://github.com/ele828/hexo-prism-plugin) - A plugin that adds syntax highlighting using [prism](https://prismjs.com/).
 
 ## CSS
 
