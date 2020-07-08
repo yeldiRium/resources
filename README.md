@@ -5,19 +5,20 @@ These are things that are or were of interest to me. No guarantee for existence 
 # Table of Contents
 
 1. [JavaScript](#JavaScript)
-2. [Haskell](#Haskell)
-3. [PureScript](#PureScript)
-4. [APIs](#APIs)
-5. [Infrastructure](#Infrastructure)
-6. [Computer Science](#Computer-Science)
-7. [Markdown](#Markdown)
-8. [Databases](#Databases)
-9. [Operating Systems / Computer Setup](#Operating-Systems--Computer-Setup)
-10. [Web (Frontend)](#Web-Frontend)
-11. [Editors](#Editors)
-12. [Security](#Security)
-13. [Selfhosted Web Services](#Selfhosted-Web-Services)
-14. [Miscellaneous](#Miscellaneous)
+2. [TypeScript](#TypeScript)
+3. [Haskell](#Haskell)
+4. [PureScript](#PureScript)
+5. [APIs](#APIs)
+6. [Infrastructure](#Infrastructure)
+7. [Computer Science](#Computer-Science)
+8. [Markdown](#Markdown)
+9. [Databases](#Databases)
+10. [Operating Systems / Computer Setup](#Operating-Systems--Computer-Setup)
+11. [Web (Frontend)](#Web-Frontend)
+12. [Editors](#Editors)
+13. [Security](#Security)
+14. [Selfhosted Web Services](#Selfhosted-Web-Services)
+15. [Miscellaneous](#Miscellaneous)
 
 # JavaScript
 
@@ -121,6 +122,12 @@ These are things that are or were of interest to me. No guarantee for existence 
 ## third-party collections
 
 - [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
+
+# TypeScript
+
+## Guides
+
+- [Redux & React](https://github.com/piotrwitek/react-redux-typescript-guide/blob/master/README.md)
 
 # Haskell
 
