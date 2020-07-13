@@ -84,6 +84,7 @@ These are things that are or were of interest to me. No guarantee for existence 
 
 ## Miscellaneous
 
+- [defekt](https://www.npmjs.com/package/defekt) - Custom error definitions.
 - [is-url](https://www.npmjs.com/package/is-url) - Check whether a string is a url.
 - [winston](https://github.com/winstonjs/winston) - Logging framework.
 - [Commander](https://github.com/tj/commander.js) - CLI framework.
